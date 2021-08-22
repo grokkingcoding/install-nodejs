@@ -1,3 +1,5 @@
+![Image for short guide](https://source.unsplash.com/mZnx9429i94)
+
 # About
 
 **Visit www.grokkingcoding.io for more coding tips and tricks!**
